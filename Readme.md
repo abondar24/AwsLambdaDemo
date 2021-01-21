@@ -1,4 +1,4 @@
-#AWS Lambda Demo
+# AWS Lambda Demo
 
 Small demo of AWS lambda usage.
 
@@ -8,7 +8,7 @@ Handlers:
 - S3Handler - log incoming S3 event data(bucket,sourceKey)
 
 
-##Build
+## Build
 ```yaml
 ./gradlew clean build
 ```
